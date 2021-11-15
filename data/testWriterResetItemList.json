@@ -1,0 +1,32 @@
+{
+    "incomplete": [
+        {
+            "type": "RECURRING",
+            "item name": "vigorously water plants"
+        },
+        {
+            "type": "RECURRING",
+            "item name": "turn off AC"
+        },
+        {
+            "type": "RECURRING",
+            "item name": "turn on AC"
+        }
+    ],
+    "procrastinated": [],
+    "completed": [{
+        "type": "ONETIME",
+        "item name": "call the boss"
+    }],
+    "failed": [
+        {
+            "type": "ONETIME",
+            "item name": "bake cookies"
+        },
+        {
+            "type": "ONETIME",
+            "item name": "teach yoga"
+        }
+    ],
+    "pug name": "coconut"
+}
